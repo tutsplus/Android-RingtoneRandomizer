@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Ringtone Randomizer</string>
+
+    <string name="activate">Activate Ringtone Randomizer</string>
+    <string name="deactivate">Deactivate Ringtone Randomizer</string>
+
+    <string name="list_of_ringtones">Ringtones available on this device:</string>
+
+</resources>
